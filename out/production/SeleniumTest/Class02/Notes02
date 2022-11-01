@@ -1,5 +1,5 @@
 ------------------------HTML----------------
-All the webapplication
+All the web application
 are developed using Html.
 
 
@@ -9,7 +9,7 @@ tags:
 
 <html>
 	<body>
-		<button> heelo </button>
+		<button> hello </button>
 	</body>
 </html>
 
@@ -51,16 +51,16 @@ locators help us find a particular webElement on the page
 - ID
 - Name
 - ClassName
-- linktext
+- linkText
 - partialLinkText
-- Tagname
+- TagName
 - xpath
 - CSS Selector
 
 the purpose of having multiple locators is because
 some tags might not have an id (u can use another locator)
 
-two webElements have a common locator  (e.g  <input id="box" ,name="textbox"/>
+two webElements have a common locator  (e.g  <input id="box" ,name="textBox"/>
  											, <input id="box",class= "btn" )
 
 
@@ -110,7 +110,7 @@ close the browser
 
 navigate to fb.com
 click on create new account
-fill up all the textboxes
+fill up all the text boxes
 click on sign up button
 close the pop up
 close the browser
